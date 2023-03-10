@@ -13,13 +13,8 @@ Depends:
     readxl,
     haven,
     dplyr
-Authors@R:
-    person(
-        name = "Dinh Thai Son",
-        role = c("aut", "cre"),
-        email = "dinhthaison@hmu.edu.vn",
-        address = "Hanoi Medical University, Vietnam"
-    )
+Authors@R: 
+    person(given = "Dinh Thai", family = "Son", role = c("aut", "cre"), email = "dinhthaison@hmu.edu.vn")
 LazyData: true
 LazyLoad: true
 Encoding: UTF-8
