@@ -1,0 +1,39 @@
+---
+title: "Using the dtson Package"
+output: 
+html_document: 
+toc: true
+toc_depth: 2
+---
+  
+  ```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+Introduction
+The dtson package provides an efficient way to edit and manipulate data within R. It is especially designed for individuals who are not familiar with coding, but need to edit or manipulate their data quickly and easily. This vignette will provide an overview of the package and demonstrate its usage.
+
+Installation
+To install the dtson package, use the following command:
+
+```{r}
+  devtools::install_github("dinhthaison/dtson")
+```
+
+
+Loading the package
+Once the package is installed, load it using the following command:
+
+```{r}
+  library(dtson)
+```
+
+
+To start the dtson app type the command
+
+```{r}
+  dtson
+```
+
+  
+Conclusion  
+The dtson package provides a simple and efficient way to edit and manipulate data in R. We hope this vignette has provided a useful overview of the package's capabilities.
