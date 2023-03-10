@@ -25,7 +25,3 @@ LazyLoad: true
 Encoding: UTF-8
 RoxygenNote: 7.1.1
 
-# Usage:
-# After installing the 'dtson' package, simply load the required libraries and start editing your data. You can use the 'rhandsontable' package to create an interactive table and edit your data directly. You can also use 'readxl' and 'haven' to import data from Excel or SPSS formats, respectively. Finally, you can use 'dplyr' to manipulate and transform your data.
-
-# Note: Please ensure that you have the latest versions of all the required packages installed to avoid any potential issues.
